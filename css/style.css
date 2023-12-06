@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: o;
+}
+a{
+    text-decoration: none;
+}
+.body{
+    font-family: 'Open Sans', sans-serif;
+  background: var(--020-a-18, #020A18);;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}.logo-info{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav{
+    display: flex;
+    gap: 26px;
+}
